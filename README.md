@@ -2,7 +2,7 @@
 
 A lightweight To-Do List application built using **PHP** and **HTML5**.
 
-![Task Manager Screenshot](assets/images/image.png)
+![Task Manager Screenshot](assets/Images/image.png)
 
 ## Features 🚀
 - Add, mark, and delete tasks
